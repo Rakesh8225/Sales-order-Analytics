@@ -88,7 +88,7 @@ Order_Items
  Products
 ```
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 The project includes SQL queries for:
 
@@ -108,7 +108,7 @@ The project includes SQL queries for:
 - Category-wise quantity sold
 - Daily sales analysis
 
-## 🧮 SQL Concepts Demonstrated
+##  SQL Concepts Demonstrated
 
 This project demonstrates practical use of:
 
@@ -128,7 +128,7 @@ This project demonstrates practical use of:
 - Primary Keys
 - Foreign Keys
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1: Install MySQL
 
